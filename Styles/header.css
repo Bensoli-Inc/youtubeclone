@@ -1,5 +1,5 @@
 .header {
-  height: 55px;
+  height: 50px;
   display: flex;
   flex-direction: row;
 justify-content: space-between;
@@ -22,19 +22,19 @@ border-bottom-color: rgb(229, 228, 228);
 }
 
 .hamburgermenu {
-height: 24px;
-margin-left: 24px;
-margin-right: 20px;
+height: 18px;
+margin-left: 12px;
+margin-right: 12px;
 }
 
 .youtubelogo {
-height: 20px;
+height: 18px;
 }
 
 .middlesection {
   flex: 1;
-  margin-left: 70px;
-  margin-right: 35px;
+  margin-left: 20px;
+  margin-right: 12px;
   max-width: 500px;
   display: flex;
   align-items: center;
@@ -42,11 +42,11 @@ height: 20px;
 
 .searchbar {
   flex: 1;
-  height: 35.9px;
-  padding-left: 10px;
+  height: 24px;
+  padding-left: 5px;
   box-shadow: inset 2px 4px 5px rgba(0, 0, 0, 0.1);
   border-radius: 2px;
-  font-size: 15px;
+  font-size: 10px;
   border-width: 1px;
   border-style: solid;
   border-color: rbg(192, 192, 192);
@@ -59,14 +59,14 @@ height: 20px;
 }
 
 .searchbutton {
-  height: 39px;
-  width: 59px;
+  height: 24px;
+  width: 37px;
   background-color: rgb(243, 240, 238);
   border-width: 1px;
   border-style: solid;
   border-color: rbg(192, 192, 192);
   margin-left: -1px;
-  margin-right: 10px;
+  margin-right: 4px;
 
 }
 
@@ -86,9 +86,9 @@ align-items: center;
   position: absolute;
   background-color: gray;
   color: white;
-  padding: 4px 8px 4px 8px;
+  padding: 3px 5.9px 3px 5.9px;
   border-radius: 3px;
-  font-size: 12px;
+  font-size: 10px;
   bottom: -30px;
   opacity: 0;
   transition: opacity 0.15s;
@@ -104,42 +104,42 @@ align-items: center;
 }
 
 .searchicon {
-  height: 25px;
+  height: 15px;
 }
 
 .voicesearchbutton {
-  height: 40px;
-  width: 40px;
-  border-radius: 20px;
+  height: 24px;
+  width: 24px;
+  border-radius: 12px;
   border: none;
   background-color: rgb(241, 233, 233);
 
 }
 
 .voicesearchicon {
-  height: 24px;
+  height: 15px;
 }
 
 .rightsection {
-  width: 180px;
+  width: 250;
   display: flex;
   align-items: center;
   justify-content: space-between;
-  margin-right: 20px;
+  margin-right: 0px;
   flex-shrink: 0;
 
 }
 
 .uploadicon {
-  height: 24px;
+  height: 14px;
 }
 
 .youtubeappsicon {
-  height: 24px;
+  height: 14px;
 }
 
 .notificationsicon {
-  height: 24px;
+  height: 14px;
 }
 
 .notificationsiconcontainer {
@@ -148,17 +148,17 @@ align-items: center;
 
 .notificationscount {
   position: absolute;
-  top: -2px;
-  right: -5px;
+  top: -1px;
+  right: -3px;
   background-color: rgb(201, 0, 1);
   color: white;
   font-family: roboto, arial;
-  font-size: 11px;
-  padding: 2px 5px 2px 5px;
-  border-radius: 10px;
+  font-size: 7px;
+  padding: 1px 3px 3px 3px;
+  border-radius: 5.9px;
 }
 
 .currentuserpic {
-  height: 32px;
-  border-radius: 15.9px;
+  height: 24px;
+  border-radius: 12px;
 }
