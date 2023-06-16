@@ -149,7 +149,7 @@ align-items: center;
 .notificationscount {
   position: absolute;
   top: -1px;
-  right: -1px;
+  right: 0px;
   background-color: rgb(201, 0, 1);
   color: white;
   font-family: roboto, arial;
