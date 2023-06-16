@@ -121,11 +121,11 @@ align-items: center;
 }
 
 .rightsection {
-  width: 40px;
+  width: 59.9px;
   display: flex;
   align-items: center;
   justify-content: space-between;
-  margin-right: 0px;
+  margin-right: 8px;
   flex-shrink: 0;
 
 }
@@ -149,7 +149,7 @@ align-items: center;
 .notificationscount {
   position: absolute;
   top: -1px;
-  right: -3px;
+  right: -1px;
   background-color: rgb(201, 0, 1);
   color: white;
   font-family: roboto, arial;
@@ -159,6 +159,6 @@ align-items: center;
 }
 
 .currentuserpic {
-  height: 28px;
-  border-radius: 14px;
+  height: 22px;
+  border-radius: 11px;
 }
