@@ -48,14 +48,14 @@ border-radius: 20px;
   
 }
 
-@media (max-width: 750px) {
+@media (max-width: 400px) {
     .videogrid {
       grid-template-columns: 1fr 1fr;
     }
 }
 
 
-@media (min-width: 751px) and (max-width: 999px) {
+@media (min-width: 401px) and (max-width: 999px) {
   .videogrid {
   grid-template-columns: 1fr 1fr 1fr;
   }
