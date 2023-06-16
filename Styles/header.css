@@ -121,7 +121,7 @@ align-items: center;
 }
 
 .rightsection {
-  width: 250;
+  width: 300px;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -154,11 +154,11 @@ align-items: center;
   color: white;
   font-family: roboto, arial;
   font-size: 7px;
-  padding: 1px 3px 3px 3px;
+  padding: 1px 1px 1px 1px;
   border-radius: 5.9px;
 }
 
 .currentuserpic {
-  height: 24px;
-  border-radius: 12px;
+  height: 28px;
+  border-radius: 14px;
 }
